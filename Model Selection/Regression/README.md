@@ -1,4 +1,4 @@
-# Model Selection for Dataset
+# Regression Model Selection for Dataset
 
 We have to select the model for our dataset, so we are applying all regression models on our dataset and then selecting the best regression model based on the R-squared coefficient. The best model will have an R-squared coefficient closest to one.
 
