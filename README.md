@@ -46,5 +46,5 @@ Machine Learning A-Z/
     └── Section 50 - CatBoost
 ```
 
-# Course Certificate
+# [Course Certificate](https://www.udemy.com/certificate/UC-fd154b0b-1ef0-4899-83f6-2ecea2dafbf7/)
 ![Certificate](https://github.com/user-attachments/assets/31373558-1503-40a1-b58b-b222e44499af)
