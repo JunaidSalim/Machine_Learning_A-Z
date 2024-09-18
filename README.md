@@ -1,5 +1,5 @@
 # Machine Learning A-Z
-This repository contains Python implementations of various machine learning models studied during the Machine Learning A-Z course. The structure of the repository follows the course folder structure and serves as a handbook for machine learning.
+This repository features Python implementations of a wide range of machine learning models that I explored during the Machine Learning A-Z course. The models cover Regression, Classification, Clustering, Reinforcement Learning, Association Rule Learning, Natural Language Processing (NLP), as well as Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN)
 
 # Repository Structure
 ```
